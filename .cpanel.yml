@@ -1,5 +1,5 @@
 --- 
 deployment: 
      tasks: 
-          - export DEPLOYPATH=/home/inkabyteedu/
+          - export DEPLOYPATH=/home/inkabyteedu/public_html/
           - /bin/cp -R public/* $DEPLOYPATH

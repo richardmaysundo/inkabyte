@@ -17,6 +17,11 @@ tecnologies: [
     iconName: "ScratchIcon",
     header: "Scratch",
     content: "Lenguaje de programación visual y atractivo que permite el desarrollo de habilidades mentales, creando historias interactivas, juegos y animaciones."
+  },
+  {
+    iconName: "RobloxIcon",
+    header: "Roblox",
+    content: "Plataforma empleada para crear y jugar distintos tipos de videojuegos. Emplea el lenguaje de programación Lua."
   }
 ]
 ---

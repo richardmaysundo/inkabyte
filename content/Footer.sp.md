@@ -3,8 +3,8 @@ copyright: "© InkaByte 2020"
 social: {
   facebook: "#"
 }
-privacyText: "Politica de Privacidad"
+privacyText: "Política de Privacidad"
 privacyHref: "#!"
-termsText: "Terminos de Uso"
+termsText: "Términos de Uso"
 termsHref: "#!"
 ---

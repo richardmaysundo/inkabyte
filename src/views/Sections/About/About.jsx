@@ -28,7 +28,7 @@ const About = ({ className, frontmatter }) => {
                 Inkabyte nace de la necesidad existente en la realidad peruana; la educación
                 tradicional se enfoca en el conocimiento, pero descuida las capacidades que desde
                 pequeños adquirimos: el pensamiento lógico-matemático. En Inkabyte queremos
-                complementar la educación de estudiantes desde los 10 a los 17 años, potenciando su
+                complementar la educación de estudiantes desde los 7 a los 17 años de edad, potenciando su
                 manera de pensar, para ello hacemos uso de la lógica computacional, empleando una de
                 las herramientas más usada en estos días: la PC, para que los estudiantes sean
                 capaces de crear proyectos diversos; como presentaciones animadas, historias

@@ -6,11 +6,11 @@ courses: [
   {
     imageFileName: "course/01-thumbnail.jpg",
     imageFileNameDetail: "course/01-full.jpg",
-    header: "Introducción a la programación con Scratch",
-    subheader: "Nivel: Principantes",
-    content: "Este es un curso de codificación orientada a objetos, dirigido a niños de 10 a 14 años y diseñado para mejorar sus habilidades de resolución de problemas y fomentar el pensamiento
+    header: "Programación con Scratch",
+    subheader: "Nivel: Básico e Intermedio",
+    content: "Este es un curso de codificación orientada a objetos, dirigido a chicos de 10 a 14 años y diseñado para mejorar sus habilidades de resolución de problemas y fomentar el pensamiento
     lógico y creativo.",
-    extraInfo: ["Fecha de Inicio: Enero 2021", "Duración: 8 semanas", "Inversión: 120 soles"]
+    extraInfo: ["Fecha de Inicio: Marzo 2021", "Duración: 12 semanas", "Inversión: 70 soles al mes (4 semanas)"]
   },
   {
     imageFileName: "course/02-thumbnail.jpg",
@@ -27,6 +27,14 @@ courses: [
     subheader: "Nivel: Principiantes",
     content: "Este curso de Arduino está dirigido a estudiantes de 13 a 17 años que deseen aprender todo lo referente a electrónica,, ingenieros, diseñadores, arquitectos o cualquier persona interesada en el tema. Aquí conocerás todo lo referente a electrónica, robótica y programación de un arduino desde cero, además aprenderás las características y funciones generales de un arduino, desarrollando proyectos de su elección desde cero.",
     extraInfo: ["Fecha de Inicio: Próximamente"]
-  },  
+  },
+  {
+    imageFileName: "course/04-thumbnail.jpg",
+    imageFileNameDetail: "course/04-full.jpg",
+    header: "Programación con Roblox",
+    subheader: "Nivel: Básico e Intermedio",
+    content: "Este curso enseña a utilizar el Roblox Studio, para la creación de escenarios y programación de los diferentes juegos, para ello hacemos uso del lenguaje de programación Lua. Dirigido a chicos de 10 a 14 años.",
+    extraInfo: ["Fecha de Inicio: Abril 2021", "Duración: 12 semanas", "Inversión: 70 soles al mes (4 semanas)"]
+  }
 ]
 ---

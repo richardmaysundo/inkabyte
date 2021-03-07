@@ -21,7 +21,7 @@ const Tecnologies = ({ className, frontmatter }) => {
       </Row>
       <Row className="text-center">
         {tecnologies.map((tecnology) => (
-          <Col md={4} key={tecnology.header}>
+          <Col md={6} key={tecnology.header}>
             <TecnologyItem {...tecnology} />
           </Col>
         ))}

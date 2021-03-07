@@ -28,7 +28,7 @@ const CourseItem = ({
 
   return (
     <>
-      <Col md={4} sm={6} className="course-item">
+      <Col md={6} sm={6} className="course-item">
         <a
           role="button"
           tabIndex={-1}

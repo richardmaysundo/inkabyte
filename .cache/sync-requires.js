@@ -5,7 +5,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": hot(preferDefault(require("C:\\Git\\inkabyte\\.cache\\dev-404-page.js"))),
+  "component---cache-caches-gatsby-plugin-offline-app-shell-js": hot(preferDefault(require("C:\\Git\\inkabyte\\.cache\\caches\\gatsby-plugin-offline\\app-shell.js"))),
   "component---src-pages-404-jsx": hot(preferDefault(require("C:\\Git\\inkabyte\\src\\pages\\404.jsx"))),
   "component---src-templates-top-index-jsx": hot(preferDefault(require("C:\\Git\\inkabyte\\src\\templates\\top-index.jsx")))
 }

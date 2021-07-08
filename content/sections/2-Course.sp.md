@@ -34,7 +34,7 @@ courses: [
     header: "Programación con Roblox",
     subheader: "Nivel: Básico e Intermedio",
     content: "Este curso enseña a utilizar el Roblox Studio, para la creación de escenarios y programación de los diferentes juegos, para ello hacemos uso del lenguaje de programación Lua. Dirigido a chicos de 10 a 14 años.",
-    extraInfo: ["Fecha de Inicio: 12 de Julio 2021", "Duración: 12 semanas", "Inversión: 100 soles al mes (4 semanas)"]
+    extraInfo: ["Fecha de Inicio: Octubre 2021", "Duración: 12 semanas", "Inversión: 100 soles al mes (4 semanas)"]
   }
 ]
 ---
